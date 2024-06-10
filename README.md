@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daolusion, I am a beginner at coding and would love to learn more about it through experience.
+- 👋 Hi, I’m @daolusion, I am a beginner at coding and would love to learn more about it through experience. a bit of my background in coding is I learned a bit of HTML and CSS from freecodecamp.org and got my certificate, but I still feel like I don't know what I am doing so I would love to have the chance to learn more.
 - 👀 I’m interested in ... Cultivation novels as in martial arts, not gardening lol.
 - 🌱 I’m currently learning ... how to code and what makes it work with it and what doesn't.
 - 💞️ I’m looking to collaborate on ... projects or team projects that can teach me how to improve my coding skills.
